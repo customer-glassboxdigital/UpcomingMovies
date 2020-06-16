@@ -6,6 +6,13 @@
 
 Movies app written in Swift 5 using the TMDb API.
 
+## Run the following commands the first time after downloading code from bitbucket and before configuring Mobile sdk
+Creates xcode workspace so you use workspace and not the project file.
+
+cd /Users/[user name here]/Code/test-apps/ios/UpcomingMovies
+pod install
+xed .
+
 ## Demo
 
 <img src="Demo.gif" width="200" height="433" />
